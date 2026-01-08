@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd {
   background-color: rgb(250, 178, 190);
-  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #second {
